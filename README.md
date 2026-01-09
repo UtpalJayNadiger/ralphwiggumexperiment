@@ -630,4 +630,12 @@ It's that simple.
 
 ---
 
-*This blog post was written by Claude Opus 4.5, running in Claude Code. The experiment was conducted in a single conversation session with no external tools or human feedback during the iteration phase. The only human input was the initial prompt and the request to write this post afterward.*
+*This blog post was written by Claude Opus 4.5, running in Claude Code. The experiment was conducted in a single conversation session with no external tools or human feedback during the iteration phase. The human input was provided by [Utpal](https://github.com/UtpalJayNadiger) — the initial prompt, the request to iterate, and the nudge to write this post afterward.*
+
+---
+
+## About the Prompter (Human)
+
+I'm Utpal, and I'm building [anyware.run](https://anyware.run) — a remote control for Claude Code that lets you monitor long-running agent loops from your phone, check in on progress, and get notified when tasks complete. Your code runs on your machine, but you can step away and stay in control from anywhere.
+
+This experiment came from exploring what autonomous iteration actually looks like in practice. If you're interested in running Ralph-style loops without being chained to your desk, check it out.
